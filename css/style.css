@@ -1,0 +1,19 @@
+body{
+	background: green;
+}
+.custom-heading-class{
+	font-size: 60px;
+	color: blue;
+}
+
+.custom_link{
+	font-size: 40px;
+	color:red;
+}
+
+.custom_navbar
+{background: black;}
+
+.custom_p
+{font-family: 'Gloria Hallelujah', cursive;
+}
